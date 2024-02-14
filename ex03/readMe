@@ -1,0 +1,1 @@
+create a new key with (ssh-keygen) where you copy paste the public key in here and rename the file to "id_rsa_pub"
